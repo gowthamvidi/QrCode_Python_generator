@@ -1,0 +1,27 @@
+Project: QR Code Generator - Biox Systems
+Author: Shiva Gowtham Kumar Vidiyala
+
+Description:
+    A Python application that generates QR codes from user-provided URLs.
+    The output is saved as a PNG image.
+
+Files Included:
+    - qr_generator.py (main source code)
+    - requirements.txt (list of required libraries)
+    - screenshot.png (QR code output screenshot)
+
+Required Libraries:
+    - qrcode
+
+Execution Instructions:
+    1. Install Python
+    2. Install required libraries:
+         pip install qrcode pillow
+    3. Run the program using:
+         python qr_generator.py
+
+IDE Used:
+    Visual Studio Code
+
+Version Control:
+    GitHub repository link included in Word document.
